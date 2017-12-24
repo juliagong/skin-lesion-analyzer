@@ -1,0 +1,2 @@
+# skin-lesion-analyzer
+Created automated skin cancer detection software using image analysis, feature extraction, and statistical modeling that analyzes images of skin lesions to detect possibly cancerous growths. Presented research and algorithms at the international JMP Discovery Summit (also selected as Best Student Poster), to the Women in Data Science Meetup, at the JMP Developers' Meeting, and at the SAS Intern Expo.
